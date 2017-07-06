@@ -30,4 +30,4 @@ $ node CLI-recovery-tool.js
 ```
 
 # Check the transaction
-Go to [Ripple charts](https://xrpcharts.ripple.com/#/graph) and type in your qccount to check the state of the transaction.
+Go to [Ripple charts](https://xrpcharts.ripple.com/#/graph) and type in your account to check the state of the transaction.
